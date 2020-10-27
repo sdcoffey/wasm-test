@@ -3,9 +3,10 @@
 ## To run
 You need:
 - Go installed on your machine
+- A sense of adventure
 
 ```bash
-$ make boostrap # one-time setup
+$ make bootstrap # one-time setup
 $ make run
 ```
 
